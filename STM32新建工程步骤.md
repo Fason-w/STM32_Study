@@ -4,7 +4,6 @@
 - 工程文件夹里面建立Start，Library，User等文件夹，复制固件库里面的文件到工程文件夹
 
 ![image-20261001161623012](C:\Users\27608\AppData\Roaming\Typora\typora-user-images\image-20261001161623012.png)
-<img width="671" height="164" alt="image" src="https://github.com/user-attachments/assets/3665d64e-9b69-4d5c-9fdd-41560d7557fd" />
 
 - 工程里对应建立Start，Library，User等同名称的分组，然后将文件夹内的文件添加到工程分组里
 
